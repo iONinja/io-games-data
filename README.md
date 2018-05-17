@@ -4,7 +4,7 @@ There are now hundreds of "io games" — simple browser MMOs that allow you to p
 
 ## Using
 
-You can clone or download this repository, and access the data in `data.json`. It contains and array of objects with data about io games such as name, URL and thumbnail.
+You can clone or download this repository, and access the data in `data.json`. It contains an array of objects with data about io games such as name, URL and thumbnail.
 
 ## Format
 
@@ -18,8 +18,8 @@ Each game is a JSON-object with this structure:
  - `published`: string, yyyy/mm/dd
  - `secure`: boolean, HTTPS connection
  - `developer`: object
-  - `name`: string, Developer
-  - `twitter`: string, handle
+   - `name`: string, Developer
+   - `twitter`: string, handle
 
 ## Contributing
 
