@@ -1,0 +1,15 @@
+[
+	{
+		"name": "Example.io",
+		"url": "https://example.io",
+		"synopsis": "Short description",
+		"description": "Extended description",
+		"thumbnail": "https://example.io/thumbnail.png",
+		"published": "2018/05/17",
+		"secure": true,
+		"developer": {
+			"name": "iO Ninja",
+			"twitter": "ioninja14"
+		}
+	}
+]
