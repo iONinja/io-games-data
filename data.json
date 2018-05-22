@@ -10,5 +10,17 @@
 			"name": "iO Ninja",
 			"site": "twitter/ioninja14"
 		}
+	},
+	{
+		"name": "Biplanes.ga",
+		"url": "http://biplanes.ga",
+		"description": "Attack others but watch your tail in this exiting plane game!",
+		"thumbnail": "https://cdn.iogames.club/uploads/game/image/779/thumb_submit.png",
+		"published": "2018/03/11",
+		"secure": false,
+		"developer": {
+			"name": "Centipede5",
+			"site": "twitter/Centipede5dev"
+		}
 	}
 ]
