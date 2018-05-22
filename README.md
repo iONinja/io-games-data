@@ -10,16 +10,15 @@ You can clone or download this repository, and access the data in `data.json`. I
 
 Each game is a JSON-object with this structure:
 
- - `name`: string, Example.io
- - `url`: string, https://example.io/
- - `synopsis`: string, short description
- - `description`: string, extended description
+ - `name`: string, name
+ - `url`: string, URL
+ - `description`: string, short description
  - `thumbnail`: string, image URL
  - `published`: string, yyyy/mm/dd
- - `secure`: boolean, HTTPS connection
+ - `secure`: boolean, secure connection
  - `developer`: object
-   - `name`: string, Developer
-   - `twitter`: string, handle
+   - `name`: string, developer name
+   - `site`: string, URL or platform/handle
 
 ## Contributing
 

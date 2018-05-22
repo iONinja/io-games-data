@@ -1,15 +1,14 @@
 [
 	{
-		"name": "Example.io",
-		"url": "https://example.io",
-		"synopsis": "Short description",
-		"description": "Extended description",
-		"thumbnail": "https://example.io/thumbnail.png",
-		"published": "2018/05/17",
-		"secure": true,
+		"name": "Tanksmith.io",
+		"url": "http://tanksmith.io",
+		"description": "Build your tank, battle other players and become massive. Original tank-shooter/tower-defense hybrid.",
+		"thumbnail": "http://tanksmith.io/thumbnail.png",
+		"published": "2018/05/20",
+		"secure": false,
 		"developer": {
 			"name": "iO Ninja",
-			"twitter": "ioninja14"
+			"site": "twitter/ioninja14"
 		}
 	}
 ]
