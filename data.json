@@ -22,5 +22,41 @@
 			"name": "Centipede5",
 			"site": "twitter/Centipede5dev"
 		}
+	},
+	{
+		"name": "Diep.io",
+		"url": "http://diep.io",
+		"description": "Survive and shoot at others while trying to keep your own tank alive!",
+		"thumbnail": "https://m28.studio/static/4366eeff9fbb4bee423ea557ad76994745f060c3/400.png",
+		"published": "2016/04/16",
+		"secure": false,
+		"developer": {
+			"name": "m28",
+			"site": "http://m28.studio"
+		}
+	},
+	{
+		"name": "Agar.io",
+		"url": "http://agar.io",
+		"description": "Control your cell and eat other players to grow larger",
+		"thumbnail": "https://m28.studio/static/61ae28a7b6b51f7e1e69448ed59035fdbbdcfa57/400.png",
+		"published": "2015/04/28",
+		"secure": false,
+		"developer": {
+			"name": "m28",
+			"site": "http://m28.studio"
+		}
+	},
+	{
+		"name": "Slither.io",
+		"url": "http://slither.io",
+		"description": "The smash-hit game! Play with millions of players around the world and try to become the longest of the day!",
+		"thumbnail": "https://cdn.iogames.club/uploads/game/image/100/thumb_slither.jpg",
+		"published": "2016/03/25",
+		"secure": false,
+		"developer": {
+			"name": "Steven Howse",
+			"site": "???"
+		}
 	}
 ]
