@@ -58,5 +58,17 @@
 			"name": "Steve Howse",
 			"site": "twitter/slitheriogame"
 		}
+	},
+	{
+		"name": "YORG.io",
+		"url": "http://yprg.io",
+		"description": "YORG.io is a game about supply chains and defending your game against zombies! Your goal is to survive as long as possible. Can you beat your friends?",
+		"thumbnail": "https://yorg.io/assets/twitter-card.png",
+		"published": "2018/03/31",
+		"secure": true,
+		"developer": {
+			"name": "Tobias Springer",
+			"site": "twitter/yorg_io"
+		}
 	}
 ]
